@@ -53,35 +53,6 @@ const total = () => {
   }
 }
 
-// console.log('enter', enter(5, 5))
-// console.log('occupancy', occupancy())
-// console.log('total', total())
-
-// console.log('enter', enter(4, 5))
-// console.log('occupancy', occupancy())
-// console.log('total', total())
-
-// console.log('enter', enter(7, 3))
-// console.log('occupancy', occupancy())
-// console.log('total', total())
-
-// console.log('enter', enter(5, 2))
-// console.log('occupancy', occupancy())
-// console.log('total', total())
-
-// console.log('leave', leave(4, 2))
-// console.log('occupancy', occupancy())
-// console.log('total', total())
-
-// console.log('leave', leave(3, 5))
-// console.log('occupancy', occupancy())
-// console.log('total', total())
-
-// console.log('leave', leave(6, 5))
-// console.log('occupancy', occupancy())
-// console.log('total', total())
-
-
 
 // TODO: Change the undefined values below to the name of your functions
 module.exports = {
